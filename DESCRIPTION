@@ -8,7 +8,7 @@ Authors@R:
            email = "mlatif@isrt.ac.bd")
 Description: Calculates efficient and robust two-color microarray design using 
   genetic algorithm. Also calculates different robustness criteria of a two-color 
-  microarray design. Most of the codes are written during the author's PhD work 
+  microarray design. Most of the codes were written during the author's PhD work 
   between 2002-2005. 
 License: MIT + file LICENSE
 Encoding: UTF-8

@@ -7,7 +7,9 @@ Authors@R:
            role = c("aut", "cre"),
            email = "mlatif@isrt.ac.bd")
 Description: Calculates efficient and robust two-color microarray design using 
-               genetic algorithm.
+genetic algorithm. Also calculates different robustness criteria of a two-color 
+microarray design. Most of the codes are written during the author's PhD work 
+between 2002-2005. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

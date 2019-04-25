@@ -1,0 +1,18 @@
+Package: robustMAdesigns
+Title: Robust and efficient designs for two-color microarray experiments
+Version: 1.0.1
+Authors@R: 
+    person(given = "Mahbub",
+           family = "Latif",
+           role = c("aut", "cre"),
+           email = "mlatif@isrt.ac.bd")
+Description: Calculates efficient and ribust two-color microarray design.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    MASS,
+    stats,
+    testthat
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
